@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\4X4_Hexkey_Pad_number_Switchcase.obj" 
+TO ".\Objects\4X4_Hexkey_Pad_number_Switchcase" 
+PRINT(".\Listings\4X4_Hexkey_Pad_number_Switchcase.m51")

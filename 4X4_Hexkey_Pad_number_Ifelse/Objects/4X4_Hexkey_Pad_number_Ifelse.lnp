@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\4X4_Hexkey_Pad_number_Ifelse.obj" 
+TO ".\Objects\4X4_Hexkey_Pad_number_Ifelse" 
+PRINT(".\Listings\4X4_Hexkey_Pad_number_Ifelse.m51")
