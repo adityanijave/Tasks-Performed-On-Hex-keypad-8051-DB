@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\lcd_8bit.obj",
+".\Objects\4X4_Hexkey_Pad_number_Switchcase_LCD_main.obj",
+".\Objects\delay.obj",
+".\Objects\4X4_Hexkey_Pad_number.obj" 
+TO ".\Objects\4X4_Hexkey_Pad_number_Switchcase_LCD" 
+PRINT(".\Listings\4X4_Hexkey_Pad_number_Switchcase_LCD.m51")
