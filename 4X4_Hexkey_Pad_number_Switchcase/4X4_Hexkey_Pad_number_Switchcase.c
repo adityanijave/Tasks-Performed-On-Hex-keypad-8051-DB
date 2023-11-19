@@ -11,7 +11,7 @@ void main()
 	P1 = 0x00;
 	P2 = 0xFF;
 	
-	//forever loop
+	//forever loop for continues checking for status
 	while(1)																													 //or we can for(;;)
 	{
 		for(i = 0; i < 4; i++)																					 //for loop to continuous check for row
